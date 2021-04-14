@@ -8,7 +8,7 @@ export default function Skeleton() {
 			<div className='s-content'></div>
 
 			<style jsx>{`
-				.sketeton {
+				.skeleton {
 					max-width: 1200px;
 					margin: 20px auto;
 				}
@@ -24,7 +24,7 @@ export default function Skeleton() {
 					padding: 15px 0;
 					max-width: 500px;
 				}
-				s.content {
+				.s-content {
 					padding: 8px 0;
 					max-width: 1000px;
 				}
